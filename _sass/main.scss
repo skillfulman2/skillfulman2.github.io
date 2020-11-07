@@ -6,13 +6,37 @@
     background-color: #131323;
 }
 
+.home {
+  font-size: xx-large;
+}
+
+.HomeNavigation {
+  font-size: xx-large;
+  text-align: right;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 3%;
+  color: white;
+  text-align: center;
+}
+
 a:link {
   color: white;
   text-decoration: none;
 }
 
 a:visited {
-  color: gray;
+  color: white;
   text-decoration: none;
 }
 
@@ -20,8 +44,13 @@ body {
     color:white;
 }
 
-img {
-    width: 50%;
-    height: auto;
+.name {
+  width: 50%;
+  height: auto;
+  
 }
   
+img {
+  height: 50%;
+  width: auto;
+}
