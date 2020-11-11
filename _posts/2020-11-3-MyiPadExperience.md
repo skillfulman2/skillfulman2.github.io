@@ -11,7 +11,6 @@ After around 4 months of use I can safely the iPad is the best device I have eve
 
 Well that seems like a good enough rant for now. Here's a few pictures I've made with procreate. 
 
-<img src="assets/images/Neat.png"/>
 
 Onward and Upward.
 
