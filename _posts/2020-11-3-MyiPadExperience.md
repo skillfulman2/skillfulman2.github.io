@@ -7,12 +7,16 @@ In the summer of 2020, I purchased a 12.9 inch iPad pro after discovering the fe
 
 After around 4 months of use I can safely the iPad is the best device I have ever owned and, like a fine wine, will only get better with age. I used to keep notes in journals, then I kept notes on index cards in a plastic box, but the iPad has nullifed both of those things, and I'm better off for it. Now I'm not going to say that paper and pen does not have a purpose because it clearly does but what the iPad offers is just *different*. It has become a personal repository of past work, thoughts, and everything in between. But like many things in life, what you get out of it is directly attributed to what you put into it. At this point it is clear to me that this thing will not find its grave in an old desk drawer anytime soon, as it has now become part of my everyday routine. While I do believe it is bizarre to have so much of my daily routine connected to a piece of metal, I guess sometimes you just have to accept things for what. If it improves your life and feels right then whats the harm?
 
- And before any of you claim that I am an Apple Sheep who buys all of the latest and greatest devices because it makes me feel superior to the other apple-less peasants, here is a picture of my cell phone. When I get tired of not being able to easily read text I will go on eBay and purchase another original iPhone SE for $50, and will continue to do so until Apple stops supporting it with updates. Hopefully by that time the new iPhone 12 mini will be under $300.
+ And before any of you claim that I am an Apple Sheep who buys all of the latest and greatest devices because it makes me feel superior to the other apple-less peasants, go ahead and take a look at my cell phone below. When I get tired of not being able to easily read text I will go on eBay and purchase another original iPhone SE for $50, and will continue to do so until Apple stops supporting it with updates. Hopefully by that time the new iPhone 12 mini will be under $300.
 
 Well that seems like a good enough rant for now. Here's a few pictures I've made with procreate.
 
-<img src="https://previews.dropbox.com/p/thumb/AA8hEh1wyu287Zg7rJ_JpbysR0S5OkNq5f8Fd5IxLdeZdUElrBfs8Ri0jOZPKNZ_Ia69qSDp1fDGXugLHgaN6G0o95bf6l07TdGoeFBBQYq6x8Oalrr33LwGxloooZLg1hQNfN2bqGrjAN5GDaLcOZ8IgtM04Ah6SH_4L5-B2cNIwfW70PB6XeFOtMh6HIRCFrXWcm1ZKzbziCS78zmC_tvGF_W67MKcyq2iSINMn17ZuNCkMCNIffiPo5U-IxTylzBeMO9ljHeVj3f78DmJSR-AvRskU6ba5HIrChD449KcZ_QgFJX1OszIrfmRBZAyoQ2uzItB1C8gkMExVdB_JjnTrE2mChCuW5HIBZsBjo73gQ/p.png?size=256x256&size_mode=2"/>
-
+<img src="https://lh3.googleusercontent.com/eWNEpzTRzFRlg5rZokafTO6v5WajKJaXJe0kK5h6tQV6HhCo2Kq9rA-ULjml59IiJuzBU8M8BlxhylNREgNSvJWJp0MWwye-0ZXd_benZ37ZM4jLE_UxoJ09Sa3N-aVgm6SdFzG4=w300" />
+<img src="https://lh3.googleusercontent.com/4ewl5I63ddw6obBBMAPB6v9b0GnkDsA3ScHMfTU_WMj37L7FnK1ujoxtycijKTmsohBuiSSMX6xHw-laHMM2gd9VmscZh89xnv7PhIX6Syr4qef2oGu6KRtKYpDMekNzZwBnxens=w300"/>
+<img src="https://lh3.googleusercontent.com/l411T2F8SAKX9tathC-8xX0votgPfconEWnix7MuyNvEBOfeRHkWsRBMvelgtpVzidyqDokc6PCsbC_o_rQC3iKFVMUTa2gNsEXGpgoD5Q6KMNtNpTWj19LJmjvxlrcT0_aRaoJL=w300"/>
+<img src="https://lh3.googleusercontent.com/4cYfavsGQQWSk1jBfwYMii9MrfBaT2uIRtvSZ_0xOj0jeli1ZDjIbn-xpzj4L6TWBNk6XwpdqZLjXZBJLJdSr5o9roVy0KsXvTevVqgmdrXgTPFw6fXUkkfMPc523faB2F5LDuH4=w300"/>
+<img src="https://lh3.googleusercontent.com/lg_MPpguf8w9yEGgDkVSXt8NWOVgmqmU9ihbBWRKl1vwalfOsAaz_EjunbLZz9KR7r9tDiITLa0HgMaj5LsqtOoVy8gN3UnjalAQYiNkzCvIAF3IT-A8DrbnT9WlKlp-7-gK2Bgg=w300"/>
+<img src="https://lh3.googleusercontent.com/mBfSm0LVqPu7lID3qT6U9Z8nJdzQn3nb6zxGsqqbQtJXcu86r4S2XdQO_upYwLxIsjfwPJ4ty0bFaLzVdWbmoJSYGN_lvsZg5rl1nBs_dRU737GME98kTrfcg_Y354rmKg_3AB4u=w300"/>
 
 Onward and Upward.
 
