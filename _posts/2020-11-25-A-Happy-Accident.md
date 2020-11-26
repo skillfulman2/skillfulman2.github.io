@@ -9,6 +9,14 @@ I want to also fill you in on someting before I go deeper into this story. Befor
 
 All in all this experince made me much more comfortable around my car and I look forward to it breaking down. Earlier this year I busted my window out picking up wood to build a standing desk. I ended up going to the same Columbus pick and pull and picking out a passenger rear window. The tint is a little different but it doesnt look so bad. I also have done 3 oil changes since then the first taking a little over an hour from start to finish, the second around 45 minutes, and the last maybe half an hour or so. Iteration is important. I'm eyeballing the 200,000 mile mark, only 10,000 miles awya, to begin my next test, replacing the timing belt. I've put a few pictures of my car when it was stripped down and the busted window below. 
 
+<img src="https://lh3.googleusercontent.com/MKTga850LvPDPinmBc50maRlrSC5yH7CHhXixfRGx3obWalAqKGrdDNbrJYn_0eeyLLjNKI3168ukNBAgz8dBeCRrUSe-CepyiVznJA24UoCUQPyT0pvO3S0WJjqmKlvNwbpzOB2=w300">
+
+<img src="https://lh3.googleusercontent.com/hUDr32tFw_L8jh_K_lZ-0bhWUwoGSGzu63jeh9T2zMLF6lGbyYmgOA6p9J-B95UukMSovi1Dtg05igRpzRaq8ShKN59JF-V_v9Oy_KyyrbWoH6yo8ofCkdAMwHY0JQQ8mnU5Mw8p=w300">
+
+<img src="https://lh3.googleusercontent.com/xKQagRRz8yUDJhsYYV6VF-vEuWpGZ8MKpxJCvtNEYkNCUBuZCcnqfEK1JQ92jiEECqt_0gVMYYOIYRtkQz8nts03cO7elS0CuDiQukTMUX5kKlfoswIlOuXxhdYMrE0iOl4rnQUneQ=w300">
+
+<img src="https://lh3.googleusercontent.com/LKMzHnZ2BB6aCtzCVcW-ybkb9YYVNG6sVHxQ4fC9ycma_k50GVjdsOsTyOMhhWoUdlAGFAfk9uJxIleQJG7LZniYSAxgkSxGMob_KgWZEGu7vL3End8BTRYMetIBDPPP9bI5p0V8=w300">
+
 Onward and Upward
 
 
