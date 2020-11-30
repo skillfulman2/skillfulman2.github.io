@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -95,27 +95,27 @@ analytics:
 author:
   name             : "Ryan Remaly"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "My name is Ryan Remaly. I am 23 years old and am always looking to learn and solve problems. My posts here will vary widely and I don’t have an exact 5 year plan for how I want it to end up but that’s ok."
   location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:ryan@globalgaming.dev"
+      url : "mailto:ryan@globalgaming.dev" # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "http://ryanremaly.com"
+      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/RyanRemaly"
+      # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://www.facebook.com/ryan.remaly/"
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/skillfulman2"
-    #- label: "Instagram"
-     # icon: "fab fa-fw fa-instagram"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
@@ -123,18 +123,18 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/RyanRemaly"
+      # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://www.facebook.com/ryan.remaly/"
+      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/skillfulman2"
-   # - label: "GitLab"
-    #  icon: "fab fa-fw fa-gitlab"
       # url:
-   # - label: "Bitbucket"
-    #  icon: "fab fa-fw fa-bitbucket"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
