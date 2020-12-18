@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Ryan Remaly"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ryan Remaly"
@@ -96,7 +96,7 @@ author:
   name             : "Ryan Remaly"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My name is Ryan Remaly. I am 23 years old and am always looking to learn and solve problems. My posts here will vary widely and I don’t have an exact 5 year plan for how I want it to end up but that’s ok."
-  location         : "Somewhere"
+  location         : "Dayton, OH"
   email            :
   links:
     - label: "Email"
