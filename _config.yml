@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Ryan Remaly"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My name is Ryan Remaly. I am 23 years old and am always looking to learn and solve problems. My posts here will vary widely and I don’t have an exact 5 year plan for how I want it to end up but that’s ok."
+  avatar           : /assets/images/P1010600.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Thank you for stopping by. Feel free to reach out if you want to discuss anything."
   location         : "Dayton, OH"
   email            :
   links:
